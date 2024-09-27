@@ -1,0 +1,23 @@
+!= diferencia, esto quiere decir que cuando se utiliza el valor es diferente ! va con el = ose "!="
+If: es condicional "si" tal va con el "else" que es el que  no se cumple
+Else: es lo que no se cumple cuando el if falso
+print: es lo que imprime la funcion
+While: mientras este lloviendo, usamos sombrilla, ejemplo while(numero<100):
+    print("el valor de numero es",numero)
+    numero=numero+1
+== : significa que el valor es igual al otro
+<= : significa menor o igual con el valor incluido
+
+IF edad<20
+print("")
+else:
+Print("")
+
+OPERADORES LOGICOS:
+
+and: une dos condiciones dentro de una funcion ejemplo "if edad>18 and edad<20:" con AND se tiene que cumplir las dos condiciones para ser verdadero
+or: con or se une dos condiciones ejemplo "if edad>18 or edad<20:" pero aqui es verdadero si se cumple almenos una de las condiciones
+not: con este operador es de negacion, ejemplo: "if not edad>18:" cuando la edad es mayor de 18 va a ser falso, osea que se intercambia el si con el else, el not es la negacion osea lo contrario que estemos preguntando
+
+FUNCIONES 
+
